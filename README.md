@@ -19,7 +19,7 @@ The risk weights applied in the data matrix are informed by:
 2.  **UK Home Office / UNODC classifications** of scheduled precursor chemicals vulnerable to illicit diversion.
 
 ## 👤 About the Author
-I am an ICA Certified KYC & CDD professional transitioning into financial crime compliance. With nearly five years of experience in high-security forensic laboratory operations, my background is rooted in strict procedural adherence, secure supply chain logistics, and rigorous evidence handling. 
+I am an ICA Certified KYC & CDD professional transitioning into financial crime compliance. With nearly five years of experience in high-security forensic laboratory operations, my background is rooted in strict procedural adherence, auditable record-keeping, and rigorous evidence handling. 
 
 This project demonstrates my ability to translate complex regulatory requirements and forensic-level stock tracking principles into functional, automated compliance controls.
 
