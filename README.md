@@ -24,6 +24,6 @@ I am an ICA Certified KYC & CDD professional transitioning into financial crime 
 This project demonstrates my ability to translate complex regulatory requirements and rigorous forensic investigative principles into functional, automated compliance controls.
 
 ## 📁 How to View the Project
-1. Download the `Chemical_KYC_Risk_Model.xlsx` file from this repository.
+1. Download the `KYC_RISK_RATING_MODEL.xlsx` file from this repository.
 2. Open the file in Microsoft Excel.
 3. On the `Dashboard` tab, use the drop-down menus in Column B to test how altering client variables dynamically changes the overall regulatory risk classification.
