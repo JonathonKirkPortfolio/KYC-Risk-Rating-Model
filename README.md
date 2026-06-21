@@ -21,7 +21,7 @@ The risk weights applied in the data matrix are informed by:
 ## 👤 About the Author
 I am an ICA Certified KYC & CDD professional transitioning into financial crime compliance. With nearly five years of experience in high-security forensic laboratory operations, my background is rooted in strict procedural adherence, auditable record-keeping, and rigorous evidence handling. 
 
-This project demonstrates my ability to translate complex regulatory requirements and forensic-level stock tracking principles into functional, automated compliance controls.
+This project demonstrates my ability to translate complex regulatory requirements and rigorous forensic investigative principles into functional, automated compliance controls.
 
 ## 📁 How to View the Project
 1. Download the `Chemical_KYC_Risk_Model.xlsx` file from this repository.
